@@ -3,6 +3,7 @@
 
 
 ![Status do GitHub - Bruxeiro](https://github-readme-stats.vercel.app/api?username=bruxeiro&theme=midnight-purple&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruxeiro&theme=midnight-purple&layout=compact)](https://github.com/bruxeiro/github-readme-stats)
 
 
 ## O que eu estudo?
